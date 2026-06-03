@@ -1,0 +1,20 @@
+Delivered-To: employee@corporate.com
+Received: from mail.internal-hr.com (internal-hr.com [192.0.2.15])
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of notifications@internal-hr.com designates 192.0.2.15 as authorized sender)
+       dkim=pass
+From: "Corporate HR Department" <notifications@internal-hr.com>
+Return-Path: <notifications@internal-hr.com>
+Subject: Reminder: Open Enrollment Period for Health Insurance Ends Next Friday
+Date: June 3, 2026
+
+Hello Team,
+
+This is a routine reminder that the annual open enrollment period for your health insurance options closes next Friday at 5:00 PM. 
+
+If you do not wish to make changes to your current plan, no action is required. If you wish to modify your coverage, please log in to our secure internal company portal via your standard bookmark or via the company intranet dashboard.
+
+Do not reply directly to this automated email.
+
+Thank you,
+Human Resources Team

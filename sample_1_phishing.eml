@@ -1,0 +1,19 @@
+Delivered-To: employee@corporate.com
+Received: from mail-sender.badactorinfrastructure.net (badactorinfrastructure.net [198.51.100.42])
+Authentication-Results: mx.google.com;
+       spf=fail (google.com: domain of alerts@microsoft-security-update.com does not designate 198.51.100.42 as authorized sender)
+       dkim=fail (signature verification failed)
+From: "Microsoft IT Helpdesk" <alerts@microsoft-security-update.com>
+Return-Path: <hacker-control-panel@badactorinfrastructure.net>
+Subject: CRITICAL: Password Expiry Notice - Immediate Action Required
+Date: June 3, 2026
+
+Dear Corporate User,
+
+Your corporate email password is set to expire in exactly 4 hours. Failure to update your credentials will result in immediate suspension of your email account, corporate VPN access, and HR portal privileges.
+
+Please click the secure corporate single sign-on link below to keep your current password:
+http://microsoft-security-update.com/login/auth/sso-verification.php
+
+Regards,
+IT Global Helpdesk Support
