@@ -6,12 +6,12 @@ Welcome to the **Phishing Email Detection & Awareness System** repository. This 
 
 ---
 
-## 📂 Repository Architecture
+## Repository Architecture
 
-```text
+
 ├── datasets/
 │   ├── sample_1_phishing.eml
-│   ├── sample_2_suspicious.eml
-│   └── sample_3_safe.eml
-├── Phishing_Detection_System_Report.pdf  <-- Full Comprehensive Canva Report
+│   ├── sample_2_phishing.eml
+│   └── sample_3_phishing.eml
+├── Phishing Detection & Awareness Report.pdf  <-- Full Comprehensive Canva Report
 └── README.md                            <-- Repository Dashboard (This File)
